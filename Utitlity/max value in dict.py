@@ -8,3 +8,12 @@ max_value = max_group[0]
 max_key = max_group[1]
 
 print(max_key)
+
+
+# Another Method
+max_count = None
+max_name_month = None
+for key in dict_:
+    if max_count == None or dict_[key] > max_count:
+        max_count = dict_[key]
+        max_name_month = key
