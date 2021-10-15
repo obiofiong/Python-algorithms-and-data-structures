@@ -1,19 +1,11 @@
 import requests
 
-url="https://developers.symphonyfintech.in/marketdata/auth/login"
+url="https://xts.compositedge.com/marketdata/auth/login"
 keys={
      "appKey":"b1329cedc2fb6704cec753",
-     "secretKey" : "Ccun120@gl",
+     "secretKey" : "Acmf732$ZH",
      "source": "WebAPI"
 }
-ast = requests.post(url, data = keys)
-
-# url="https://jsonplaceholder.typicode.com/posts"
-# keys={
-#     "title": 'foo',
-#     "body": 'bar',
-#     "userId": 1,
-#   }
   
-ast = requests.post(url, data = keys)
-print(ast.text)
+ast = requests.post(url, json = keys)
+print(ast.json())
