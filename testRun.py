@@ -25,16 +25,23 @@
 
 # new
 
-def removeDuplicates( nums):
-    """
-    :type nums: List[int]
-    :rtype: int
-    """
-    duplicates = []
-    for i in nums:
-        if i not in duplicates:
-            duplicates.append(i)
-    return duplicates
+# def removeDuplicates( nums):
+#     """
+#     :type nums: List[int]
+#     :rtype: int
+#     """
+#     duplicates = []
+#     for i in nums:
+#         if i not in duplicates:
+#             duplicates.append(i)
+#     return duplicates
 
 
-print(len(removeDuplicates([1,1,2])))
+# print(len(removeDuplicates([1,1,2])))
+
+
+a = '1'
+while len(a):
+    
+
+
