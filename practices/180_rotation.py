@@ -1,4 +1,6 @@
 
+# O(N^2) solution
+
 # 1 6 8 9 0 
 def rotate_180(arr):
     valid = []
@@ -16,6 +18,5 @@ def rotate_180(arr):
             valid.append(num)
     return len(valid)
 print(rotate_180(12))
-
 
 
