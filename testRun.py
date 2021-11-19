@@ -23,7 +23,7 @@
 
 
 
-# new tests
+# new
 
 # def removeDuplicates( nums):
 #     """
@@ -43,11 +43,9 @@
 # a = '1'
 # while len(a):
     
-# test1 =  [[1,3],[15,18],[2,6],[8,10]]
-# test2 = [2,72,5,7,4,2]
-# test1.sort(key = lambda x : x[1])
-# print(test1)
+test1 =  [[1,3],[15,18],[2,6],[8,10]]
+test2 = [2,72,5,7,4,2]
+test1.sort(key = lambda x : x[1])
+print(test1)
 
 
-for i in range(1,1):
-    print(1)
