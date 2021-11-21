@@ -43,9 +43,18 @@
 # a = '1'
 # while len(a):
     
-test1 =  [[1,3],[15,18],[2,6],[8,10]]
-test2 = [2,72,5,7,4,2]
-test1.sort(key = lambda x : x[1])
-print(test1)
+# test1 =  [[1,3],[15,18],[2,6],[8,10]]
+# test2 = [2,72,5,7,4,2]
+# test1.sort(key = lambda x : x[1])
+# print(test1)
+
+a = 'ab'
+b = 'aba'
+
+# print(min(a,b))
 
 
+# get character
+get_char = lambda x: chr(x+ord('a'))
+
+print(get_char(4))
