@@ -22,10 +22,11 @@
 # print(person_objects)
 
 
-#Print
+#
 
+# print(min(a,b))
 
-# def removeDuplicates( nums):
+def removeDuplicates( nums):
 #     """
 #     :type nums: List[int]
 #     :rtype: int
@@ -50,8 +51,6 @@
 
 a = 'ab'
 b = 'aba'
-
-# print(min(a,b))
 
 #print Zoropay 
 # get character
