@@ -40,6 +40,8 @@ def removeDuplicates( nums):
 
 # print(len(removeDuplicates([1,1,2])))
 
+# print(people)
+# print(person_objects)
 
 # a = '1'
 # while len(a):
