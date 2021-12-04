@@ -38,7 +38,7 @@ def removeDuplicates( nums):
 #     return duplicates
 
 
-# print(len(removeDuplicates([1,1,2])))
+#(len(removeDuplicates([1,1,2])))
 
 # print(people)
 # print(person_objects)
