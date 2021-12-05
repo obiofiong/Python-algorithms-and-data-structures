@@ -54,7 +54,7 @@ def removeDuplicates( nums):
 a = 'ab'
 b = 'aba'
 
-#print Zoropay 
+ 
 # get character
 get_char = lambda x: chr(x+ord('a'))
 
