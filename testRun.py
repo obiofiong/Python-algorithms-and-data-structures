@@ -22,8 +22,6 @@
 # print(person_objects)
 
 
-#
-
 # print(min(a,b))
 
 def removeDuplicates( nums):
