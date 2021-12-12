@@ -5,9 +5,12 @@
 #     def birthday(self):
 #         self.age +=1
 
+
 # names = ['john',"mich"]
 # ages = [1,5]
 # people = set(zip(names, ages))
+
+people = set(zip(names, ages))
 
 # person_objects = []
 # for i in people:
