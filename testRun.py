@@ -62,6 +62,6 @@ get_char = lambda x: chr(x+ord('a'))
 print(get_char(4))
 a = 'ab'
 b = 'aba'
-
+c = 'ged'
  
 
