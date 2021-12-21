@@ -63,5 +63,4 @@ print(get_char(4))
 a = 'ab'
 b = 'aba'
 c = 'ged'
- 
-
+d = 'hed'
