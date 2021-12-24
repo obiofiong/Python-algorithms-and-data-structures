@@ -24,6 +24,7 @@ people = set(zip(names, ages))
 # print(people)
 # print(person_objects)
 
+# print(person_objects)
 
 # print(min(a,b))
 
