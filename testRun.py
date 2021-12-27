@@ -21,6 +21,17 @@ people = set(zip(names, ages))
 # for i in person_objects:
 #     print(i.birthday()) #returns none
 
+# person_objects = []
+# for i in people:
+#     person_objects.append(Person(*i))
+#     # print(i)
+#     # print(*i)
+#     # print(i.)
+# for i in person_objects:
+#     print(i.birthday()) #returns none
+
+
+
 # print(people)
 # print(person_objects)
 
