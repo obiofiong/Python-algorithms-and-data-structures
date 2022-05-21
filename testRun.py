@@ -62,7 +62,9 @@ def removeDuplicates( nums):
 # test1 =  [[1,3],[15,18],[2,6],[8,10]]
 # test2 = [2,72,5,7,4,2]
 # test1.sort(key = lambda x : x[1])
-# print(test1)
+# print(test1) 
+# 987
+# Hi
 
 a = 'ab'
 b = 'aba'
