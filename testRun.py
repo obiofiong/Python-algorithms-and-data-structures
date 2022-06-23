@@ -71,6 +71,8 @@ b = 'aba'
  
 # get character
 get_char = lambda x: chr(x+ord('a'))
+#getting started
+
 
 print(get_char(4))
 a = 'ab'
