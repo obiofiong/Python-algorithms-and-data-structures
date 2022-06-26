@@ -71,7 +71,7 @@ b = 'aba'
  
 # get character
 get_char = lambda x: chr(x+ord('a'))
-#getting 
+#
 
 
 print(get_char(4))
