@@ -64,7 +64,6 @@ def removeDuplicates( nums):
 # test2 = [2,72,5,7,4,2]
 # test1.sort(key = lambda x : x[1])
 # print(test1) 
-# 987
 
 a = 'ab'
 b = 'aba'
